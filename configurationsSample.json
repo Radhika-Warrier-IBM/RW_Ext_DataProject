@@ -1,0 +1,39 @@
+{
+  "output": {
+    "apiVersion": "1.0",
+    "metadata": {
+      "source": "awsprospoke01",
+      "project": "fl5b58cb31eb65c61455cf22",
+      "generatedOn": 1750819668675
+    },
+    "configurations": {
+      "packages": [],
+      "variables": [
+        {
+          "key": "ProjectParameterRWGoo",
+          "value": "new value RW goo",
+          "isPassword": false,
+          "isRequired": false,
+          "uid": "fl843fb9e1fde21fe5cc8201",
+          "type": "projectParameter"
+        },
+        {
+          "key": "ProjectVariableRWGoo",
+          "value": "Project value added here",
+          "packageName": "RW_Google_Im_exp1Project",
+          "type": "projectVariable",
+          "typeProjectVariable": true,
+          "isPassword": false,
+          "isGlobal": false
+        }
+      ],
+      "connections": [],
+      "certificates": [],
+      "servicesSchedule": []
+    },
+    "globals": {
+      "alertRules": [],
+      "versionControlAccounts": []
+    }
+  }
+}

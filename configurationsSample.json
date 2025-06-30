@@ -2,8 +2,8 @@
   "output": {
     "apiVersion": "1.0",
     "metadata": {
-      "source": "awsprospoke02",
-      "project": "fl5b58cb31eb65c61455cf22",
+      "source": "awsprospoke01",
+      "project": "fl5b58cb31eb65c6er43e5cf22",
       "generatedOn": 1750819668675
     },
     "configurations": {

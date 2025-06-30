@@ -1,1 +1,2 @@
-Hello
+Version 3
+Project configuration updated

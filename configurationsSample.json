@@ -2,7 +2,7 @@
   "output": {
     "apiVersion": "1.0",
     "metadata": {
-      "source": "awsprospoke01",
+      "source": "awsprospoke02",
       "project": "fl5b58cb31eb65c61455cf22",
       "generatedOn": 1750819668675
     },

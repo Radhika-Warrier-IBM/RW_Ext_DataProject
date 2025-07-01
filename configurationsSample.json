@@ -19,7 +19,7 @@
         },
         {
           "key": "ProjectVariableRWGoo",
-          "value": "Project value added here",
+          "value": "Project value added not the correct one added here",
           "packageName": "RW_Google_Im_exp1Project",
           "type": "projectVariable",
           "typeProjectVariable": true,

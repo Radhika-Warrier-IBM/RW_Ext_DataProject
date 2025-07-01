@@ -27,7 +27,47 @@
           "isGlobal": false
         }
       ],
-      "connections": [],
+      "connections": [
+{
+					"name": "GoogleCalendar_1",
+					"type": "oauth2",
+					"source": "",
+					"sourceMetadata": {
+						"providerName": "google_calendar"
+					},
+					"uid": "au05f91983cfb491ac1c6bce226ea96baf746450b5",
+					"data": {
+						"auth_type": "oauth2",
+						"provider": "google_calendar",
+						"client_id": "YOURCLIENTID0ko.apps.googleusercontent.com",
+						"client_secret": "SECRETDATA",
+						"access_token": "accesstok",
+						"refresh_token": "refreshtok",
+						"refresh_url": "https://oauth2.googleapis.com/token",
+						"grant_type": "refresh_token",
+						"expires_in": 3359,
+						"scope": "https://www.googleapis.com/auth/calendar",
+						"token_type": "Bearer",
+						"_life_end_at": 1751116351744,
+						"_resources": {},
+						"refresh_opts": {
+							"headers": {},
+							"method": "post",
+							"url": "https://oauth2.googleapis.com/token",
+							"form": {
+								"client_secret": "SECRETDATA",
+								"grant_type": "refresh_token",
+								"client_id": "YOURCLIENTID0ko.apps.googleusercontent.com",
+								"refresh_token": "Refreshtok"
+							},
+							"strictSSL": false
+						}
+					}
+				}
+
+
+
+],
       "certificates": [],
       "servicesSchedule": []
     },

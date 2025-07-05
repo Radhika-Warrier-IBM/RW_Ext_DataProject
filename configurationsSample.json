@@ -17,6 +17,14 @@
           "uid": "fl843fb9e1fde21fe5cc8201",
           "type": "projectParameter"
         },
+ 	{
+          "key": "ProjectParameterRWCurrencyEur",
+          "value": "EUR",
+          "isPassword": false,
+          "isRequired": false,
+          "uid": "fl843fb9e1fde21fe5cc8201",
+          "type": "projectParameter"
+        },
   {
           "key": "ProjectParameterRegion",
           "value": "APJ",

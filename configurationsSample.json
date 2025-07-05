@@ -57,8 +57,8 @@
 						"provider": "google_calendar",
 						"client_id": "YOURCLIENTID0ko.apps.googleusercontent.com",
 						"client_secret": "SECRETDATA",
-						"access_token": "accesstok",
-						"refresh_token": "refreshtok",
+						"access_token": "accesstok1",
+						"refresh_token": "refreshtok1",
 						"refresh_url": "https://oauth2.googleapis.com/token",
 						"grant_type": "refresh_token",
 						"expires_in": 3359,
@@ -74,7 +74,7 @@
 								"client_secret": "SECRETDATA",
 								"grant_type": "refresh_token",
 								"client_id": "YOURCLIENTID0ko.apps.googleusercontent.com",
-								"refresh_token": "Refreshtok"
+								"refresh_token": "Refreshtok1"
 							},
 							"strictSSL": false
 						}

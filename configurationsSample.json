@@ -11,7 +11,7 @@
       "variables": [
         {
           "key": "ProjectParameterRWCurrency",
-          "value": "USD",
+          "value": "INR",
           "isPassword": false,
           "isRequired": false,
           "uid": "fl843fb9e1fde21fe5cc8201",

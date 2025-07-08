@@ -41,7 +41,17 @@
           "typeProjectVariable": true,
           "isPassword": false,
           "isGlobal": false
+        },
+   {
+          "key": "ProjectVariableProviderCloud",
+          "value": "AWS",
+          "packageName": "RW_Google_Im_exp1Project",
+          "type": "projectVariable",
+          "typeProjectVariable": true,
+          "isPassword": false,
+          "isGlobal": false
         }
+
       ],
       "connections": [
 {

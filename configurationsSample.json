@@ -33,6 +33,22 @@
           "uid": "fl843fb9e1fde21fe5cc8201",
           "type": "projectParameter"
         },
+{
+          "key": "ProjectParameterSQLServer",
+          "value": "http://mySQLLocal:8080.com",
+          "isPassword": false,
+          "isRequired": false,
+          "uid": "fl843fb9e1fde21fe5cc8205",
+          "type": "projectParameter"
+        },
+{
+          "key": "SQLUserName",
+          "value": "sa",
+          "isPassword": false,
+          "isRequired": false,
+          "uid": "fl843fb9e1fde21fe5cc8205",
+          "type": "projectParameter"
+        },
   {
           "key": "ProjectParameterRegion",
           "value": "APJ",

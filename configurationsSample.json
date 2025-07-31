@@ -74,6 +74,14 @@
           "isPassword": false,
           "isGlobal": false
         },
+{
+          "key": "ProjectParameterRWRegion",
+          "value": "EU",
+          "isPassword": false,
+          "isRequired": false,
+          "uid": "fl843fb9e1fde21fe5cc8201",
+          "type": "projectParameter"
+        },
    {
           "key": "ProjectVariableProviderCloud",
           "value": "AWS",

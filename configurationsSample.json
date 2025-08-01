@@ -19,7 +19,7 @@
         },
     {
           "key": "ProjectParameterRWRegion",
-          "value": "APJ",
+          "value": "IN",
           "isPassword": false,
           "isRequired": false,
           "uid": "fl843fb9e1fde21fe5cc8201",
@@ -27,7 +27,7 @@
         },
       {
           "key": "ProjectParameterRWCurrencyLocal",
-          "value": "APJ",
+          "value": "RS",
           "isPassword": false,
           "isRequired": false,
           "uid": "fl843fb9e1fde21fe5cc8205",

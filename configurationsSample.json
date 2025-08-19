@@ -17,6 +17,15 @@
           "uid": "fl843fb9e1fde21fe5cc8201",
           "type": "projectParameter"
         },
+ {
+          "key": "ProjectParameterRWCurrency",
+          "value": "THB",
+          "isPassword": false,
+          "isRequired": false,
+          "uid": "fl843fb9e1fde21fe5cc8201",
+          "type": "projectParameter"
+        },
+
     {
           "key": "ProjectParameterRWRegion",
           "value": "INR",

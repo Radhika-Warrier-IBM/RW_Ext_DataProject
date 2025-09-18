@@ -10,7 +10,7 @@
       "packages": [],
       "variables": [
         {
-          "key": "ProjectParameterRWCurrency",
+          "key": "ProjectParameterRWCurrencyINR",
           "value": "INR",
           "isPassword": false,
           "isRequired": false,
@@ -18,7 +18,7 @@
           "type": "projectParameter"
         },
  {
-          "key": "ProjectParameterRWCurrency",
+          "key": "ProjectParameterRWCurrency1",
           "value": "THB",
           "isPassword": false,
           "isRequired": false,
